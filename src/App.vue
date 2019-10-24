@@ -1,8 +1,8 @@
 <template>
   <div id="app">
 
-<!--    <pagina-index/>-->
-<cabecalho></cabecalho>
+    <pagina-index/>
+<!--<cabecalho></cabecalho>-->
   </div>
 </template>
 
