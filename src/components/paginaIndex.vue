@@ -1,6 +1,6 @@
 <template>
     <div id="pp">
-       <header id="headerCabecalho">
+        <header id="headerCabecalho">
             <ul>
                 <li style="list-style-type:none">
                     <p>Tabajara Motors</p>
@@ -10,7 +10,7 @@
                     <button>Ajuda</button>
                 </li>
             </ul>
-       </header>
+        </header>
     </div>
 </template>
 
