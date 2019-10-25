@@ -1,24 +1,25 @@
 <template>
   <div id="app">
-
+    <navbar></navbar>
     <pagina-index/>
-<!--<cabecalho></cabecalho>-->
+<!--    <cards></cards>-->
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import cabecalho from './components/cabecalho.vue'
 import paginaLogin from  './components/paginaLogin'
 import paginaIndex from './components/paginaIndex'
-
+import navbar from "./components/navbar";
+// import cards from "./components/cards";
 export default {
   name: 'app',
   components: {
     HelloWorld,
-    cabecalho,
     paginaLogin,
-    paginaIndex
+    paginaIndex,
+    navbar,
+    // cards
 
   }
 }

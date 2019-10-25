@@ -3,6 +3,7 @@ import App from './App.vue';
 import 'bootstrap';
 import './assets/app.scss'
 
+
 Vue.config.productionTip = false
 
 new Vue({
