@@ -25,7 +25,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <a class="dropdown-item" href="#">Vendedores</a>
                         <a class="dropdown-item" href="#">Dados Da Empresa</a>
-                        <a class="dropdown-item" href="#">Something else here</a>
+                        <a class="dropdown-item" href="#">Agendamentos</a>
                     </div>
                 </li>
             </ul>

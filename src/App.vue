@@ -2,7 +2,8 @@
   <div id="app">
     <navbar></navbar>
     <pagina-index/>
-<!--    <cards></cards>-->
+    <cards></cards>
+    <rodapefooter></rodapefooter>
   </div>
 </template>
 
@@ -10,8 +11,9 @@
 import HelloWorld from './components/HelloWorld.vue'
 import paginaLogin from  './components/paginaLogin'
 import paginaIndex from './components/paginaIndex'
-import navbar from "./components/navbar";
-// import cards from "./components/cards";
+import navbar from "./components/navbar"
+import cards from "./components/cards.vue"
+import rodapefooter from "./components/rodapefooter";
 export default {
   name: 'app',
   components: {
@@ -19,7 +21,8 @@ export default {
     paginaLogin,
     paginaIndex,
     navbar,
-    // cards
+    cards,
+    rodapefooter
 
   }
 }
