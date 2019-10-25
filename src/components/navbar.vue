@@ -38,7 +38,7 @@
 
     export default {
         mounted(){
-            axios.get('https://pokeapi.co/api/v2/pokemon/ditto/').then(function (response) {
+            axios.get('https://pokeapi.co/api/v2/pokemon/ditto').then(function (response) {
                 console.log(response.data)
             })
         },
