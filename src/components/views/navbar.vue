@@ -7,13 +7,13 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#" >Home <span class="sr-only">(current)</span></a>
+                    <router-link class="nav-link" to="/">Home <span class="sr-only">(current)</span></router-link>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Catálogo</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Login</a>
+                    <router-link class="nav-link" to="/login">Login</router-link>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Registrar</a>

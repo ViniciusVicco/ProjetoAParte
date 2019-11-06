@@ -13,7 +13,7 @@
 
                     <!--Image-->
                     <div class="view overlay z-depth-1-half">
-                        <img src="../assets/images/iconefiat.png" class="img-fluid"
+                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
                              alt="">
                         <a href="">
                             <div class="mask rgba-white-light"></div>
@@ -28,7 +28,7 @@
 
                     <!--Image-->
                     <div class="view overlay z-depth-1-half">
-                        <img src="../assets/images/iconefiat.png" class="img-fluid"
+                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
                              alt="">
                         <a href="">
                             <div class="mask rgba-white-light"></div>
@@ -43,7 +43,7 @@
 
                     <!--Image-->
                     <div class="view overlay z-depth-1-half">
-                        <img src="../assets/images/iconefiat.png" class="img-fluid"
+                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
                              alt="">
                         <a href="">
                             <div class="mask rgba-white-light"></div>
@@ -58,7 +58,7 @@
 
                     <!--Image-->
                     <div class="view overlay z-depth-1-half">
-                        <img src="../assets/images/iconefiat.png" class="img-fluid"
+                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
                              alt="">
                         <a href="">
                             <div class="mask rgba-white-light"></div>
@@ -73,7 +73,7 @@
 
                     <!--Image-->
                     <div class="view overlay z-depth-1-half">
-                        <img src="../assets/images/iconefiat.png" class="img-fluid"
+                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
                              alt="">
                         <a href="">
                             <div class="mask rgba-white-light"></div>
@@ -88,7 +88,7 @@
 
                     <!--Image-->
                     <div class="view overlay z-depth-1-half">
-                        <img src="../assets/images/iconefiat.png" class="img-fluid"
+                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
                              alt="">
                         <a href="">
                             <div class="mask rgba-white-light"></div>

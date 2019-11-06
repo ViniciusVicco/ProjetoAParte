@@ -1,19 +1,21 @@
 <template>
   <div id="app">
-    <navbar></navbar>
-    <pagina-index/>
-    <cards></cards>
-    <rodapefooter></rodapefooter>
+    <navbar/>
+<!--    <cards></cards>-->
+    <div id="container">
+      <router-view></router-view>
+    </div>
+<!--    <rodapefooter/>-->
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-import paginaLogin from  './components/paginaLogin'
-import paginaIndex from './components/paginaIndex'
-import navbar from "./components/navbar"
-import cards from "./components/cards.vue"
-import rodapefooter from "./components/rodapefooter";
+import HelloWorld from './components/views/HelloWorld.vue'
+import paginaLogin from './components/views/paginaLogin'
+import paginaIndex from './components/views/paginaIndex'
+import navbar from "./components/views/navbar"
+import cards from "./components/views/Home.vue"
+import rodapefooter from "./components/views/rodapefooter";
 export default {
   name: 'app',
   components: {
