@@ -9,93 +9,93 @@
             <div class="row">
 
                 <!--Grid column-->
-                <div class="col-lg-2 col-md-12 mb-4">
+<!--                <div class="col-lg-2 col-md-12 mb-4">-->
 
-                    <!--Image-->
-                    <div class="view overlay z-depth-1-half">
-                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
-                             alt="">
-                        <a href="">
-                            <div class="mask rgba-white-light"></div>
-                        </a>
-                    </div>
+<!--                    &lt;!&ndash;Image&ndash;&gt;-->
+<!--                    <div class="view overlay z-depth-1-half">-->
+<!--                        <img src="../../assets/images/iconefiat.png" class="img-fluid"-->
+<!--                             alt="">-->
+<!--                        <a href="">-->
+<!--                            <div class="mask rgba-white-light"></div>-->
+<!--                        </a>-->
+<!--                    </div>-->
 
-                </div>
-                <!--Grid column-->
+<!--                </div>-->
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
 
-                <!--Grid column-->
-                <div class="col-lg-2 col-md-6 mb-4">
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
+<!--                <div class="col-lg-2 col-md-6 mb-4">-->
 
-                    <!--Image-->
-                    <div class="view overlay z-depth-1-half">
-                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
-                             alt="">
-                        <a href="">
-                            <div class="mask rgba-white-light"></div>
-                        </a>
-                    </div>
+<!--                    &lt;!&ndash;Image&ndash;&gt;-->
+<!--                    <div class="view overlay z-depth-1-half">-->
+<!--                        <img src="../../assets/images/iconefiat.png" class="img-fluid"-->
+<!--                             alt="">-->
+<!--                        <a href="">-->
+<!--                            <div class="mask rgba-white-light"></div>-->
+<!--                        </a>-->
+<!--                    </div>-->
 
-                </div>
-                <!--Grid column-->
+<!--                </div>-->
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
 
-                <!--Grid column-->
-                <div class="col-lg-2 col-md-6 mb-4">
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
+<!--                <div class="col-lg-2 col-md-6 mb-4">-->
 
-                    <!--Image-->
-                    <div class="view overlay z-depth-1-half">
-                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
-                             alt="">
-                        <a href="">
-                            <div class="mask rgba-white-light"></div>
-                        </a>
-                    </div>
+<!--                    &lt;!&ndash;Image&ndash;&gt;-->
+<!--                    <div class="view overlay z-depth-1-half">-->
+<!--                        <img src="../../assets/images/iconefiat.png" class="img-fluid"-->
+<!--                             alt="">-->
+<!--                        <a href="">-->
+<!--                            <div class="mask rgba-white-light"></div>-->
+<!--                        </a>-->
+<!--                    </div>-->
 
-                </div>
-                <!--Grid column-->
+<!--                </div>-->
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
 
-                <!--Grid column-->
-                <div class="col-lg-2 col-md-12 mb-4">
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
+<!--                <div class="col-lg-2 col-md-12 mb-4">-->
 
-                    <!--Image-->
-                    <div class="view overlay z-depth-1-half">
-                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
-                             alt="">
-                        <a href="">
-                            <div class="mask rgba-white-light"></div>
-                        </a>
-                    </div>
+<!--                    &lt;!&ndash;Image&ndash;&gt;-->
+<!--                    <div class="view overlay z-depth-1-half">-->
+<!--                        <img src="../../assets/images/iconefiat.png" class="img-fluid"-->
+<!--                             alt="">-->
+<!--                        <a href="">-->
+<!--                            <div class="mask rgba-white-light"></div>-->
+<!--                        </a>-->
+<!--                    </div>-->
 
-                </div>
-                <!--Grid column-->
+<!--                </div>-->
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
 
-                <!--Grid column-->
-                <div class="col-lg-2 col-md-6 mb-4">
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
+<!--                <div class="col-lg-2 col-md-6 mb-4">-->
 
-                    <!--Image-->
-                    <div class="view overlay z-depth-1-half">
-                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
-                             alt="">
-                        <a href="">
-                            <div class="mask rgba-white-light"></div>
-                        </a>
-                    </div>
+<!--                    &lt;!&ndash;Image&ndash;&gt;-->
+<!--                    <div class="view overlay z-depth-1-half">-->
+<!--                        <img src="../../assets/images/iconefiat.png" class="img-fluid"-->
+<!--                             alt="">-->
+<!--                        <a href="">-->
+<!--                            <div class="mask rgba-white-light"></div>-->
+<!--                        </a>-->
+<!--                    </div>-->
 
-                </div>
-                <!--Grid column-->
+<!--                </div>-->
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
 
-                <!--Grid column-->
-                <div class="col-lg-2 col-md-6 mb-4">
+<!--                &lt;!&ndash;Grid column&ndash;&gt;-->
+<!--                <div class="col-lg-2 col-md-6 mb-4">-->
 
-                    <!--Image-->
-                    <div class="view overlay z-depth-1-half">
-                        <img src="../../assets/images/iconefiat.png" class="img-fluid"
-                             alt="">
-                        <a href="">
-                            <div class="mask rgba-white-light"></div>
-                        </a>
-                    </div>
+<!--                    &lt;!&ndash;Image&ndash;&gt;-->
+<!--                    <div class="view overlay z-depth-1-half">-->
+<!--                        <img src="../../assets/images/iconefiat.png" class="img-fluid"-->
+<!--                             alt="">-->
+<!--                        <a href="">-->
+<!--                            <div class="mask rgba-white-light"></div>-->
+<!--                        </a>-->
+<!--                    </div>-->
 
-                </div>
+<!--                </div>-->
                 <!--Grid column-->
 
             </div>
@@ -105,8 +105,8 @@
         <!-- Footer Elements -->
 
         <!-- Copyright -->
-        <div class="footer-copyright text-center py-3">© 2018 Copyright:
-            <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
+        <div class="footer-copyright text-center py-3">Tabajara Motors © 2019 Copyright:
+            <a href="https://mdbootstrap.com/education/bootstrap/"> Tabajara Motors</a>
         </div>
         <!-- Copyright -->
 

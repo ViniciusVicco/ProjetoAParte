@@ -5,7 +5,7 @@
     <div id="container">
       <router-view></router-view>
     </div>
-<!--    <rodapefooter/>-->
+  <rodapefooter/>
   </div>
 </template>
 
