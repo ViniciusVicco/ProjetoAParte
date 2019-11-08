@@ -10,22 +10,22 @@
                     <router-link class="nav-link" to="/">Home <span class="sr-only">(current)</span></router-link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Catálogo</a>
+                    <router-link class="nav-link" to="/">Catálogo <span class="sr-only">(current)</span></router-link>
                 </li>
                 <li class="nav-item">
                     <router-link class="nav-link" to="/login">Login</router-link>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Registrar</a>
+                    <router-link class="nav-link" to="/">Registrar <span class="sr-only">(current)</span></router-link>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Contatos
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <a class="dropdown-item" href="#">Vendedores</a>
-                        <a class="dropdown-item" href="#">Dados Da Empresa</a>
-                        <a class="dropdown-item" href="#">Agendamentos</a>
+                        <router-link class="dropdown-item" to="/">Vendedores <span class="sr-only">(current)</span></router-link>
+                        <router-link class="dropdown-item" to="/">Empresa<span class="sr-only">(current)</span></router-link>
+                        <router-link class="dropdown-item" to="/">Agendamentos <span class="sr-only">(current)</span></router-link>
                     </div>
                 </li>
             </ul>
