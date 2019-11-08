@@ -106,7 +106,7 @@
 
         <!-- Copyright -->
         <div class="footer-copyright text-center py-3">Tabajara Motors © 2019 Copyright:
-            <a href="https://mdbootstrap.com/education/bootstrap/"> Tabajara Motors</a>
+            <a href="#">Direitos Reservados</a>
         </div>
         <!-- Copyright -->
 

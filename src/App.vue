@@ -24,7 +24,7 @@ export default {
     paginaIndex,
     navbar,
     cards,
-    rodapefooter
+    rodapefooter,
 
   }
 }

@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './components/views/Home'
-
 import Pagina from './components/views/paginaLogin'
 
 
@@ -16,8 +15,9 @@ export default new Router({
             name: 'home',
             component: Home
         },
-        { path: '/login',
+        {   path: '/login',
             component: Pagina
         },
+
     ]
 })
