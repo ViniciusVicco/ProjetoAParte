@@ -1,6 +1,6 @@
 <template>
     <!-- Footer -->
-    <footer class="page-footer font-small mdb-color lighten-3 pt-4">
+    <div class="page-footer font-small mdb-color lighten-3 pt-4">
 
         <!-- Footer Elements -->
         <div class="container">
@@ -106,19 +106,14 @@
 
         <!-- Copyright -->
         <div class="footer-copyright text-center py-3">Tabajara Motors © 2019 Copyright:
-            <a href="#">Direitos Reservados</a>
+            <router-link to="/">Direitos Reservados <span class="sr-only">(current)</span></router-link>
         </div>
         <!-- Copyright -->
 
-    </footer>
+    </div>
     <!-- Footer -->
 </template>
 
-<script>
-    export default {
-        name: "footer"
-    }
-</script>
 
 <style scoped>
 

@@ -10,22 +10,22 @@
                     <router-link class="nav-link" to="/">Home <span class="sr-only">(current)</span></router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link class="nav-link" to="/">Catálogo <span class="sr-only">(current)</span></router-link>
+                    <router-link class="nav-link" to="/catalogo">Catálogo <span class="sr-only">(current)</span></router-link>
                 </li>
                 <li class="nav-item">
                     <router-link class="nav-link" to="/login">Login</router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link class="nav-link" to="/">Registrar <span class="sr-only">(current)</span></router-link>
+                    <router-link class="nav-link" to="/registrar">Registrar <span class="sr-only">(current)</span></router-link>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Contatos
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                        <router-link class="dropdown-item" to="/">Vendedores <span class="sr-only">(current)</span></router-link>
-                        <router-link class="dropdown-item" to="/">Empresa<span class="sr-only">(current)</span></router-link>
-                        <router-link class="dropdown-item" to="/">Agendamentos <span class="sr-only">(current)</span></router-link>
+                        <router-link class="dropdown-item" to="/vendedores">Vendedores <span class="sr-only">(current)</span></router-link>
+                        <router-link class="dropdown-item" to="/empresa">Empresa<span class="sr-only">(current)</span></router-link>
+                        <router-link class="dropdown-item" to="/agendamentos">Agendamentos <span class="sr-only">(current)</span></router-link>
                     </div>
                 </li>
             </ul>
