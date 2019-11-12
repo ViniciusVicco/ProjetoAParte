@@ -1,5 +1,9 @@
 <template>
-    
+    <div id="catalogo">
+        <ul>
+
+        </ul>
+    </div>
 </template>
 
 <script>
