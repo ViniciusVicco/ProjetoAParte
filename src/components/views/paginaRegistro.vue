@@ -21,9 +21,13 @@
                                 </div>
                                 <br>
                                 <div class="form-label-group">
+                                    <input type="email" id="inputCep" class="form-control" placeholder="Cep" required autofocus>
+                                </div>
+                                <br>
+                                <div class="form-label-group">
                                     <input type="password" id="inputPassword" class="form-control" placeholder="Senha" required>
                                     <br>
-                                    <input type="password" id="inputConfirmPassword" class="form-control" placeholder="Senha" required>
+                                    <input type="password" id="inputConfirmPassword" class="form-control" placeholder="Confirmar Senha" required>
                                 </div>
                                 <br>
                                 <div class="custom-control custom-checkbox mb-3">
@@ -34,7 +38,7 @@
                                     <input type="checkbox" class="custom-control-input" v-model="estadoV" id="customCheck2">
                                     <label class="custom-control-label" for="customCheck2">Desejo receber e-mails e promoções.</label>
                                 </div>
-                                <button v-if="estadoF" class="btn btn-lg btn-primary btn-block" type="submit">Login</button>
+                                <button v-if="estadoF" class="btn btn-lg btn-primary btn-block" type="submit">Registrar</button>
                                 <button v-if="estadoV" class="btn btn-lg btn-primary btn-block" onclick="alert('Aceite as políticas da empresa para prosseguir.')" type="submit">Ajuda</button>
                             </form>
                         </div>
