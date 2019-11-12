@@ -13,15 +13,41 @@
                                 </div>
                                 <br>
                                 <div class="form-label-group">
-                                    <input type="email" id="inputCpf" class="form-control" placeholder="CPF/CNPJ" required autofocus>
+                                    <input type="number" id="inputCpf" class="form-control" placeholder="CPF/CNPJ" required autofocus>
                                 </div>
                                 <br>
                                 <div class="form-label-group">
-                                    <input type="email" id="inputTelefone" class="form-control" placeholder="Telefone" required autofocus>
+                                    <input type="number" id="inputTelefone" class="form-control" placeholder="Telefone" required autofocus>
+                                </div>
+                                <br>
+                                <div class="form-check-label">
+                                <div class="form-label-group">
+                                    <input type="number" id="inputCep" class="form-control" placeholder="Cep: Ex 77000000" required autofocus>
+                                </div>
+                                    <br>
+                                    <div class="form-label-group">
+                                        <input type="text" id="inputCepPais" class="form-control" placeholder="Pais" required autofocus>
+                                    </div>
+                                    <br>
+                                    <div class="form-label-group">
+                                        <input type="text" id="inputCepUF" class="form-control" placeholder="Estado" required autofocus>
+                                    </div>
+                                    <br>
+                                    <div class="form-label-group">
+                                        <input type="text" id="inputCepCidade" class="form-control" placeholder="Cidade" required autofocus>
+                                    </div>
+                                    <br>
+                                    <div class="form-label-group">
+                                        <input type="text" id="inputCepSetor" class="form-control" placeholder="Setor" required autofocus>
+                                    </div>
+                                    <br>
+                                    <div class="form-label-group">
+                                        <input type="text" id="inputCepRua" class="form-control" placeholder="Rua" required autofocus>
+                                    </div>
                                 </div>
                                 <br>
                                 <div class="form-label-group">
-                                    <input type="email" id="inputCep" class="form-control" placeholder="Cep" required autofocus>
+                                    <input type="text" id="inputNumero" class="form-control" placeholder="Número/Apartamento" required autofocus>
                                 </div>
                                 <br>
                                 <div class="form-label-group">
