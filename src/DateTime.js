@@ -8,14 +8,12 @@ import Home from "./components/views/Home";
 import router from "./router";
 import  {Datetime} from "vue-datetime";
 import 'vue-datetime/dist/vue-datetime.css'
+import agendamentos from "./components/views/contatos/agendamentos";
 
-
-Vue.use(VueRouter);
-Vue.component('datetime',Datetime);
-Vue.config.productionTip = false;
-
-new Vue({
-  router,
-  render: h => h(App),
-}).$mount('#app');
-Vue.use(Datetime)
+Vue.component('datetime', Datetime);
+Vue.extend({
+    template: agendamentos,
+    comments: {
+        datetime: Datetime
+    }
+});

@@ -24,7 +24,7 @@
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <router-link class="dropdown-item" to="/vendedores">Vendedores <span class="sr-only">(current)</span></router-link>
-                        <router-link class="dropdown-item" to="/empresa">Empresa<span class="sr-only">(current)</span></router-link>
+                        <router-link class="dropdown-item" to="/oficina">Oficina<span class="sr-only">(current)</span></router-link>
                         <router-link class="dropdown-item" to="/agendamentos">Agendamentos <span class="sr-only">(current)</span></router-link>
                     </div>
                 </li>
@@ -32,19 +32,7 @@
         </div>
     </nav>
 </template>
-
-<script>
-    import axios from 'axios'
-
-    export default {
-        mounted(){
-            axios.get('https://pokeapi.co/api/v2/pokemon/ditto').then(function (response) {
-                console.log(response.data)
-            })
-        },
-    }
-</script>
-
+<!--<script src="API/PokeTeste.js"></script>-->
 <style scoped>
 
 </style>

@@ -5,8 +5,9 @@ import Pagina from './components/views/paginaLogin'
 import Registrar from './components/views/paginaRegistro'
 import Catalogo from './components/views/paginaCatalogo'
 import Vendedores from "./components/views/contatos/vendedores";
-import Empresa from "./components/views/contatos/empresa";
+import Oficina from "./components/views/contatos/oficina";
 import Agendamentos from "./components/views/contatos/agendamentos";
+import TemplateVeiculos from "./components/views/veiculos/templateVeiculo"
 Vue.use(Router)
 
 export default new Router({
@@ -34,12 +35,16 @@ export default new Router({
             component: Vendedores
         },
         {
-            path: '/empresa',
-            component: Empresa
+            path: '/oficina',
+            component: Oficina
         },
         {
             path: '/agendamentos',
             component: Agendamentos
+        },
+        {
+            path: '/veiculos',
+            component: TemplateVeiculos
         },
 
     ]

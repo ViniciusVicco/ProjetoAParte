@@ -4,31 +4,31 @@
             <div class="card">
                 <img src="../../assets/images/hatches.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Melhores Hatches usados entre 2014 e 2015</h5>
+                    <h5 class="card-title">Melhores hatches usados entre 2014 e 2015</h5>
                     <p class="card-text">VW Golf apresenta uma crescente procura em seus modelos.</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Atualizado em 14/11/2019</small>
                 </div>
             </div>
             <div class="card">
-                <img src="../../assets/images/hatches.jpeg" class="card-img-top" alt="...">
+                <img src="../../assets/images/sinistroTabajara.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                    <h5 class="card-title">Financiar é vantajoso ?</h5>
+                    <p class="card-text">O financiamento sempre foi aliado do trabalhador mas pode se tornar um pesadelo se mal planejado.</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Atualizado em 14/11/2019</small>
                 </div>
             </div>
             <div class="card">
-                <img src="../../assets/images/hatches.jpeg" class="card-img-top" alt="...">
+                <img src="../../assets/images/dinheirosobrando.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                    <h5 class="card-title">Quer um carro potente sem gastar muito ?</h5>
+                    <p class="card-text">Algumas alternativas podem ser viáveis em tempos de crise...</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Atualizado em 14/11/2019</small>
                 </div>
             </div>
         </div>
@@ -54,16 +54,16 @@
         <div class="card-deck">
             <div class="card" style="width: 18rem; background-color: #CCCCCC">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title">Agendamentos</h5>
+                    <p class="card-text">Para melhor comodidade realize todo tipo de agendamento previamente.</p>
+                    <router-link to="/agendamentos"><button class="btn btn-primary">Agendamentos</button></router-link>
                 </div>
             </div>
             <div class="card" style="width: 18rem; background-color: #CCCCCC">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                    <h5 class="card-title">Oficina Mêcanica</h5>
+                    <p class="card-text">Entenda revisões, trocas preventivas e nossa cobertura em assistência.</p>
+                    <router-link to="/oficina"><button class="btn btn-primary">Oficina</button></router-link>
                 </div>
             </div>
         </div>
