@@ -1,4 +1,4 @@
-# my-app
+# Dedico este projeto a um template de front-end simples reativo em VueJS.
 
 ## Project setup
 ```
